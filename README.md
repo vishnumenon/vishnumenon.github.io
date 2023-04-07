@@ -1,2 +1,1 @@
-# vishnumenon.github.io
-Personal site
+# vishnumenon's personal site
