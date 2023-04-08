@@ -1,0 +1,18 @@
+entries:
+  - title: links
+    entries:
+      - title: github
+        url: https://github.com/vishnumenon
+      - title: email
+        url: mailto:me@vishnumenon.com
+      - title: linkedin
+        url: https://www.linkedin.com/in/vishnu-menon/
+      - title: twitter
+        url: https://twitter.com/_vishnumenon
+
+  - title: posts
+    post_list:
+      limit: 50
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
