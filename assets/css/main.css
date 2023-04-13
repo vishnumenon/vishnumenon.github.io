@@ -98,8 +98,8 @@ td {
 }
 
 code {
-  color: black;
-  background: gray;
+  color: rgb(60, 60, 60);
+  background: rgb(240, 240, 240);
 }
 
 div.highlighter-rouge code {
