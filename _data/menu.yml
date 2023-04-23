@@ -13,9 +13,9 @@ entries:
     entries:
       - title: Ermine.ai - client-side browser-based audio transcription
         url: https://ermine.ai
-      - title: NAICS Map - Interactive map of industries in the US
+      - title: NAICS Map - interactive map of industries in the US
         url: https://naicsmap.com/
-      - title: LLM Map - World map with LLM-generated widgets
+      - title: LLM Map - world map with LLM-generated widgets
         url: https://maps.vishnumenon.com
   - title: posts
     post_list:
