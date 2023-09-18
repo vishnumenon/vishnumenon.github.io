@@ -41,4 +41,4 @@ Finally, if we can build centralized LLM UXes that have access to this wealth of
 
 I'm sure those 5 features are far from a comprehensive picture of where LLM UX is headed, but I do think the picture they paint when taken in aggregate is a pretty good indication of where things are headed. A single entry-point for most explicitly LLM-driven interactions, one that has access to a memory bank of all my past interactions with it as well as all the consumable data that makes up my digital life, that can use current UX best practices as layers on top of both prompt-construction and LLM outputs, and that can take helpful actions proactively based on my current task — I'd wager that's a future we'll start to see very soon. Of course, that's a pretty high-level description, with plenty of details left to flesh out, something that I hope to do in future posts and my own experiments. Still, I'm hoping it's enough of a concrete prediction to still be contestable, and I'd love to hear objections!
 
-- Vishnu
+~ [Vishnu](mailto:me@vishnumenon.com)
