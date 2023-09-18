@@ -11,6 +11,8 @@ entries:
         url: https://twitter.com/_vishnumenon
   - title: experiments
     entries:
+      - title: Lightrail - an AI command bar for devs
+        url: https://lightrail.ai
       - title: Ermine.ai - client-side browser-based audio transcription
         url: https://ermine.ai
       - title: NAICS Map - interactive map of industries in the US
